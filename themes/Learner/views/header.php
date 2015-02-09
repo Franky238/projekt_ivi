@@ -13,17 +13,17 @@
     <link rel="stylesheet" type="text/css" media="all" href="<ion:theme_url/>assets/css/style.css" />
 
     <link href="<ion:theme_url/>assets/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-    <link href="<ion:theme_url/>assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- <link href="<ion:theme_url/>assets/css/bootstrap.css" rel='stylesheet' type='text/css' /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" async></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" async></script>
     <![endif]-->
     <link href="<ion:theme_url/>assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!-- start plugins -->
     <script type="text/javascript" src="<ion:theme_url/>assets/js/jquery.min.js"></script>
-    <script type="text/javascript" src="<ion:theme_url/>assets/js/bootstrap.js"></script>
+    <!-- <script type="text/javascript" src="<ion:theme_url/>assets/js/bootstrap.js"></script> -->
     <script type="text/javascript" src="<ion:theme_url/>assets/js/bootstrap.min.js"></script>
     <!-- start slider -->
     <link href="<ion:theme_url/>assets/css/slider.css" rel="stylesheet" type="text/css" media="all" />
@@ -35,7 +35,7 @@
 
             $('#da-slider').cslider({
                 autoplay : true,
-                bgincrement : 450
+                bgincrement : 500
             });
 
         });
@@ -69,7 +69,7 @@
 <body>
 
 <!-- Main Navigation menu -->
-<ion:navigation level="0" tag="ul" class="navigation" active_class="active" />
+<ion:navigation id="home" level="0" tag="ul" class="navigation" active_class="active" />
 
 <div class="header_bg">
     <div class="container">
@@ -95,7 +95,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">Navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>

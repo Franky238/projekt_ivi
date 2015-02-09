@@ -213,6 +213,7 @@ body {
 	font-size: 14px;
 	line-height: 1.8em;
 	color: #868686;
+	min-height: 100px;
 }
 .images_1_of_4 a{
 	position: relative;
