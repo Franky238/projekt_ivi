@@ -1,6 +1,6 @@
 <?php
 
-// legal URL: /logo/logo.jpg
+// legal URL: /blog_pic1.jpg
 
 $statdata = array (
   0 => 2,
@@ -10,10 +10,10 @@ $statdata = array (
   4 => 0,
   5 => 0,
   6 => 2,
-  7 => 16121,
-  8 => 1423495010,
-  9 => 1423495010,
-  10 => 1423495010,
+  7 => 99026,
+  8 => 1423697538,
+  9 => 1423697538,
+  10 => 1423697538,
   11 => -1,
   12 => -1,
   'dev' => 2,
@@ -23,10 +23,10 @@ $statdata = array (
   'uid' => 0,
   'gid' => 0,
   'rdev' => 2,
-  'size' => 16121,
-  'atime' => 1423495010,
-  'mtime' => 1423495010,
-  'ctime' => 1423495010,
+  'size' => 99026,
+  'atime' => 1423697538,
+  'mtime' => 1423697538,
+  'ctime' => 1423697538,
   'blksize' => -1,
   'blocks' => -1,
 );
@@ -36,12 +36,12 @@ $data = array (
   'analysis' => 
   array (
     'GETID3_VERSION' => '1.9.3-20111213',
-    'filesize' => 16121,
-    'filename' => 'logo.jpg',
-    'filepath' => 'C:/xampp/htdocs/projekt_ivi/files/logo',
-    'filenamepath' => 'C:/xampp/htdocs/projekt_ivi/files/logo/logo.jpg',
+    'filesize' => 99026,
+    'filename' => 'blog_pic1.jpg',
+    'filepath' => 'C:/xampp/htdocs/projekt_ivi/files',
+    'filenamepath' => 'C:/xampp/htdocs/projekt_ivi/files/blog_pic1.jpg',
     'avdataoffset' => 0,
-    'avdataend' => 16121,
+    'avdataend' => 99026,
     'fileformat' => 'jpg',
     'video' => 
     array (
@@ -49,32 +49,32 @@ $data = array (
       'lossless' => false,
       'bits_per_sample' => 24,
       'pixel_aspect_ratio' => 1,
-      'resolution_x' => 300,
-      'resolution_y' => 300,
-      'compression_ratio' => 0.059707407407407410426802840675009065307676792144775390625,
+      'resolution_x' => 800,
+      'resolution_y' => 280,
+      'compression_ratio' => 0.1473601190476190592182348382266354747116565704345703125,
     ),
     'encoding' => 'UTF-8',
     'mime_type' => 'image/jpeg',
   ),
   'mime_type from file extension' => 'image/jpeg',
-  'thumb250_direct' => '/projekt_ivi/files/.thumbs/.backend/c5/9e/54be_logo1f7498d0b0326e91c22f450c-500x500.jpg',
+  'thumb250_direct' => '/projekt_ivi/files/.thumbs/.backend/6e/cc/429c_blog_pic1a5ce1e2c94d5e76771924cfd-500x500.jpg',
   'thumb250_info' => 
   array (
-    0 => 300,
-    1 => 300,
+    0 => 500,
+    1 => 175,
     2 => 2,
-    3 => 'width="300" height="300"',
+    3 => 'width="500" height="175"',
     'bits' => 8,
     'channels' => 3,
     'mime' => 'image/jpeg',
   ),
-  'thumb48_direct' => '/projekt_ivi/files/.thumbs/.backend/c5/9e/54be_logo1f7498d0b0326e91c22f450c-120x120.jpg',
+  'thumb48_direct' => '/projekt_ivi/files/.thumbs/.backend/6e/cc/429c_blog_pic1a5ce1e2c94d5e76771924cfd-120x120.jpg',
   'thumb48_info' => 
   array (
     0 => 120,
-    1 => 120,
+    1 => 42,
     2 => 2,
-    3 => 'width="120" height="120"',
+    3 => 'width="120" height="42"',
     'bits' => 8,
     'channels' => 3,
     'mime' => 'image/jpeg',

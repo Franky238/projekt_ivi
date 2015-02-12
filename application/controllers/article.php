@@ -28,5 +28,5 @@ class Article extends MY_Controller {
 	}
 }
 
-/* End of file article.php */
-/* Location: ./application/controllers/article.php */
+/* End of file article_page.php */
+/* Location: ./application/controllers/article_page.php */

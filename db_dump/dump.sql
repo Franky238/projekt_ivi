@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Hostiteľ: 127.0.0.1
--- Čas generovania: Po 09.Feb 2015, 21:09
+-- Čas generovania: Št 12.Feb 2015, 08:49
 -- Verzia serveru: 5.6.21
 -- Verzia PHP: 5.6.3
 
@@ -88,15 +88,15 @@ INSERT INTO `article` (`id_article`, `name`, `author`, `updater`, `created`, `pu
 (2, '401', NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, NULL, '0', '0', NULL, 0, 1, 5),
 (3, '403', NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, NULL, '0', '0', NULL, 0, 1, 5),
 (4, 'welcome', NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, NULL, '0', '0', NULL, 0, 1, 5),
-(5, 'aktivity-pre-deti', 'admin', 'admin', '2015-02-09 16:55:51', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 17:20:50', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
-(6, 'aktivity-pre-mladch', 'admin', NULL, '2015-02-09 17:21:10', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 17:21:10', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
-(7, 'rozne', 'admin', NULL, '2015-02-09 17:21:21', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 17:21:21', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
+(5, 'aktivity-pre-deti', 'admin', 'admin', '2015-02-09 16:55:51', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-11 23:59:45', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
+(6, 'aktivity-pre-mladch', 'admin', 'admin', '2015-02-09 17:21:10', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-12 00:35:52', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
+(7, 'rozne', 'admin', 'admin', '2015-02-09 17:21:21', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-11 23:45:03', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (8, 'rozvijame-sikovnos-a-tvorivos', 'admin', 'admin', '2015-02-09 17:22:38', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:28:09', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (9, 'robme-veci-spolu', 'admin', 'admin', '2015-02-09 17:23:14', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:28:33', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (10, 'komprax-kompetencie-pre-prax', 'admin', 'admin', '2015-02-09 17:24:30', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:29:19', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (11, 'cestujeme-po-europskej-unii', 'admin', 'admin', '2015-02-09 17:24:50', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:29:44', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (12, 'vitafit', 'admin', 'admin', '2015-02-09 17:25:05', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:30:09', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
-(13, 'remeselne-dielne', 'admin', 'admin', '2015-02-09 17:25:22', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:31:43', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
+(13, 'remeselne-dielne', 'admin', 'admin', '2015-02-09 17:25:22', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:31:43', '0000-00-00 00:00:00', 1, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (14, 'spoznavaj-slovensko', 'admin', 'admin', '2015-02-09 17:26:38', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:28:43', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (15, 'projekty', 'admin', 'admin', '2015-02-09 18:49:50', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 18:59:19', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
 (16, 'vitafit-1', 'admin', NULL, '2015-02-09 19:00:53', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 19:00:53', '0000-00-00 00:00:00', 0, NULL, '0', '0', '0000-00-00 00:00:00', 0, 1, 5),
@@ -167,9 +167,9 @@ INSERT INTO `article_lang` (`id_article`, `lang`, `url`, `title`, `subtitle`, `m
 (2, 'sk', '401', '401', 'Please login', NULL, '<p>Please login to see this content.</p>', NULL, NULL, 1),
 (3, 'sk', '403', '403', 'Forbidden', NULL, '<p>This content is forbidden.</p>', NULL, NULL, 1),
 (4, 'sk', 'welcome', 'Welcome', NULL, NULL, '<p>For more information about building a website with Ionize, you can:</p> <ul><li>Download & read <a href="http://www.ionizecms.com">the Documentation</a></li><li>Visit <a href="http://www.ionizecms.com/forum">the Community Forum</a></li></ul><p>Have fun !</p>', NULL, NULL, 1),
-(5, 'sk', 'aktivity-pre-deti', 'Aktivity pre deti', '', 'Aktivity pre deti', '', '', '', 1),
-(6, 'sk', 'aktivity-pre-mladch', 'Aktivity pre mladých', '', 'Aktivity pre mladých', '', NULL, NULL, 1),
-(7, 'sk', 'rozne', 'Rôzne', '', 'Rôzne', '', NULL, NULL, 1),
+(5, 'sk', 'aktivity-pre-deti', 'Aktivity pre deti', 'Aktivity pre deti s podnadpisom ', 'Aktivity pre deti', '<p>In suscipit porta mi. Fusce sagittis suscipit urna, et sodales neque mollis sed. Suspendisse ac nunc vel ante pretium varius. Morbi risus ante, accumsan non scelerisque id, maximus malesuada urna. Integer rhoncus ante arcu, id lobortis dui ullamcorper sed. Integer viverra porta iaculis. Pellentesque consequat fringilla tortor et tincidunt. Quisque vestibulum metus eros, sit amet fermentum leo vehicula ac. Sed auctor elementum nibh. Donec nec vestibulum lectus, pellentesque imperdiet elit. Vivamus sit amet dolor sed nibh lacinia tempus a sit amet neque. Curabitur fringilla lobortis tempor.</p>\n<p>Etiam in leo sem. Quisque nec finibus nulla. Suspendisse fermentum suscipit scelerisque. Vivamus eget molestie lectus, sed viverra nunc. Suspendisse auctor enim et nisi rutrum auctor. Pellentesque sagittis auctor diam vel maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce quis congue magna. Integer est neque, tempor sed lectus congue, scelerisque scelerisque massa. Duis ac suscipit risus. Donec a libero vitae tellus luctus blandit. Sed vitae nibh tincidunt, posuere nisi nec, ullamcorper turpis. Vestibulum eu congue orci, ac sodales sem. Sed et eleifend mi, non vehicula elit.</p>\n<p>Phasellus consectetur quam sed nunc pulvinar malesuada. Mauris malesuada enim lectus, eu pretium magna tincidunt eget. Suspendisse hendrerit augue vitae eleifend congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat ultricies lobortis. Duis suscipit magna id orci pretium, ac gravida sapien gravida. Duis ac nulla tempor, ultrices sem eu, iaculis risus. Duis est justo, posuere vel placerat et, condimentum sit amet urna.</p>', '', '', 1),
+(6, 'sk', 'aktivity-pre-mladch', 'Aktivity pre mladých', 'Toto sú aktivity pre mladých a ich podnadpis', 'Aktivity pre mladých', '<p>Ut scelerisque a purus eu elementum. Etiam efficitur mattis arcu nec fringilla. Ut eu quam eu justo rhoncus dignissim a ut velit. Duis vitae blandit velit, id facilisis mauris. Cras vel augue id lorem lacinia placerat. Mauris faucibus feugiat libero quis luctus. Nullam hendrerit imperdiet suscipit. Aliquam ac purus et diam tincidunt mollis. Donec facilisis tellus ut elit pretium cursus. Sed auctor cursus nunc, pulvinar mollis massa laoreet at. Duis eget dignissim libero. Duis vitae urna at nisi rutrum laoreet eu sed nisi. Vestibulum ornare maximus mattis. Integer ultrices nulla eu nulla mattis placerat.</p>\n<p>In suscipit porta mi. Fusce sagittis suscipit urna, et sodales neque mollis sed. Suspendisse ac nunc vel ante pretium varius. Morbi risus ante, accumsan non scelerisque id, maximus malesuada urna. Integer rhoncus ante arcu, id lobortis dui ullamcorper sed. Integer viverra porta iaculis. Pellentesque consequat fringilla tortor et tincidunt. Quisque vestibulum metus eros, sit amet fermentum leo vehicula ac. Sed auctor elementum nibh. Donec nec vestibulum lectus, pellentesque imperdiet elit. Vivamus sit amet dolor sed nibh lacinia tempus a sit amet neque. Curabitur fringilla lobortis tempor.</p>\n<p>In suscipit porta mi. Fusce sagittis suscipit urna, et sodales neque mollis sed. Suspendisse ac nunc vel ante pretium varius. Morbi risus ante, accumsan non scelerisque id, maximus malesuada urna. Integer rhoncus ante arcu, id lobortis dui ullamcorper sed. Integer viverra porta iaculis. Pellentesque consequat fringilla tortor et tincidunt. Quisque vestibulum metus eros, sit amet fermentum leo vehicula ac. Sed auctor elementum nibh. Donec nec vestibulum lectus, pellentesque imperdiet elit. Vivamus sit amet dolor sed nibh lacinia tempus a sit amet neque. Curabitur fringilla lobortis tempor.</p>\n<p>In suscipit porta mi. Fusce sagittis suscipit urna, et sodales neque mollis sed. Suspendisse ac nunc vel ante pretium varius. Morbi risus ante, accumsan non scelerisque id, maximus malesuada urna. Integer rhoncus ante arcu, id lobortis dui ullamcorper sed. Integer viverra porta iaculis. Pellentesque consequat fringilla tortor et tincidunt. Quisque vestibulum metus eros, sit amet fermentum leo vehicula ac. Sed auctor elementum nibh. Donec nec vestibulum lectus, pellentesque imperdiet elit. Vivamus sit amet dolor sed nibh lacinia tempus a sit amet neque. Curabitur fringilla lobortis tempor.</p>', '', '', 1),
+(7, 'sk', 'rozne', 'Rôzne', '', 'Rôzne', '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices lacus urna. Phasellus ultrices nisl feugiat nisi cursus dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec dapibus, eros sed efficitur cursus, orci est rutrum massa, vitae vestibulum elit nisl sed erat. Mauris at vulputate nisi, quis ullamcorper sem. Sed eget condimentum ante. Phasellus sed mauris id orci venenatis tempor varius tristique neque. Vivamus scelerisque lectus velit, id vehicula nisl tincidunt ac. Nullam quis neque porta, interdum mauris ac, hendrerit erat.</p>\n<p></p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices lacus urna. Phasellus ultrices nisl feugiat nisi cursus dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec dapibus, eros sed efficitur cursus, orci est rutrum massa, vitae vestibulum elit nisl sed erat. Mauris at vulputate nisi, quis ullamcorper sem. Sed eget condimentum ante. Phasellus sed mauris id orci venenatis tempor varius tristique neque. Vivamus scelerisque lectus velit, id vehicula nisl tincidunt ac. Nullam quis neque porta, interdum mauris ac, hendrerit erat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices lacus urna. Phasellus ultrices nisl feugiat nisi cursus dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec dapibus, eros sed efficitur cursus, orci est rutrum massa, vitae vestibulum elit nisl sed erat. Mauris at vulputate nisi, quis ullamcorper sem. Sed eget condimentum ante. Phasellus sed mauris id orci venenatis tempor varius tristique neque. Vivamus scelerisque lectus velit, id vehicula nisl tincidunt ac. Nullam quis neque porta, interdum mauris ac, hendrerit erat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices lacus urna. Phasellus ultrices nisl feugiat nisi cursus dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec dapibus, eros sed efficitur cursus, orci est rutrum massa, vitae vestibulum elit nisl sed erat. Mauris at vulputate nisi, quis ullamcorper sem. Sed eget condimentum ante. Phasellus sed mauris id orci venenatis tempor varius tristique neque. Vivamus scelerisque lectus velit, id vehicula nisl tincidunt ac. Nullam quis neque porta, interdum mauris ac, hendrerit erat.</p>', '', '', 1),
 (8, 'sk', 'rozvijame-sikovnos-a-tvorivos', 'Rozvíjame šikovnosť a tvorivosť', '', 'Rozvíjame šikovnosť a tvorivosť', '<p>Od septembra 2011 do mája  2012 sme realizovali  projekt Rozvíjame šikovnosť a tvorivosť. Projekt sa zameriaval na rozvíjanie šikovnosti  a kreativity u žiakov ZŠ formou kreatívnych dielní vo voľnom čase.  V uvedenom období   sme realizovali kreatívne dielne zamerané na servítkovú techniku zdobenia predmetov, výrobu šperkov zo zmršťovacej fólie, maľovanie na sklo, zhotovovanie vianočných ozdôb patchworkovou technikou, výrobu voňavých sviečok, výrobu šperkov z modelovacej hmoty, odlievanie predmetov z modelovacej hmoty, výrobu korálkových šperkov a ozdôb, zdobenie vajíčok a venčekov patchworkovou technikou, maľovanie sklenených pohárov, kraklovanie, kašírovanie, výrobu papierových kvetov, výrobu stromčekov šťastia, darčekov pre mamky, pohľadníc a pozdravov. V rámci projektu sme realizovali v mesiaci december 2011 a máj 2012 výstavy tvorivých dielní, na ktorých sme prezentovali práce detí.</p>\n<p>    Realizáciou projektu sa nám podarilo dosiahnuť kvalitatívne výsledky projektu – podarilo sa nám vytvoriť vhodné podmienky na zmysluplné trávenie voľného času detí a rozvíjať  umelecké nadanie a cítenie, kreativitu a šikovnosť detí. Podarilo sa nám dosiahnuť aj kvantitatívne výsledky projektu – zrealizovať 2 výstavy tvorivých dielní.</p>', '', '', 1),
 (9, 'sk', 'robme-veci-spolu', 'Robme veci spolu', '', 'Robme veci spolu', '<p>Primárnym zámerom projektu Robme veci spolu bolo sprístupnenie divadelno-hudobného predstavenia ,,U nás doma, na valale‘‘ pre zdravotne a sociálne znevýhodnené deti a dospelých. Sekundárnym zámerom projektu bolo  umožniť členom súboru  prezentovať  umenie, rozvíjať ich tvorivosť, schopnosť prezentovať sa na verejných vystúpeniach,  nadviazať a rozvíjať spoluprácu so subjektmi, ktoré majú na starosti deti a ľudí zo zdravotne a sociálne znevýhodneného prostredia -  Detský domov, DSS , Spojená škola  internátna, Detské integračné centrum, DÚHA – Združenie mentálne a zdravotne postihnutých a formou  tvorivých  dielní  umožniť ich vzájomné spoznávanie sa a integráciu do spoločnosti. </p>\n<p>    Stanovené ciele projektu boli nasledovné: sprístupniť divadelno-hudobné predstavenie  primárnej cieľovej skupine bezplatne,  odstrániť fyzické a finančné bariéry v prístupe primárnej cieľovej skupiny k umeniu,  predstaviť a rozvíjať talent detí zo sociálne znevýhodneného prostredia,  odstrániť psychologické bariéry detí - členov divadelno-hudobného zoskupenia prezentovaním sa na verejnosti,  nadviazať a rozvíjať spoluprácu so subjektmi, ktoré majú na starosti deti, mladých ľudí a dospelých zo zdravotne a sociálne znevýhodneného prostredia, formou tvorivých  dielní  umožniť  vzájomné spoznávanie sa členov so sociálne a zdravotne znevýhodnenými deťmi, mladými ľuďmi a dospelými,  ich integrácia do spoločnosti.</p>\n<p>    Od začiatku realizácie  projektu bola činnosť osôb participujúcich na projekte zameraná na splnenie cieľov projektu. Organizačné, finančné, umelecké  činnosti vyplývajúce z  realizácie projektu boli zamerané na splnenie stanovených cieľov, čo sa celému kolektívu podarilo.</p>\n<p>    V rámci prípravnej fázy sa realizovalo nacvičenie divadelno-hudobného predstavenia U nás doma, na valale pod vedením Mgr. Ivany Zálepovej, materiálno-technické zabezpečenie  predstavenia (kulisy, rekvizity, kostýmy) mala na starosti Mgr. Titková. V rámci realizačnej fázy sa uskutočnilo v máji 2011 predstavenie  pre občanov, seniorov, zdravotne postihnutých v obci, v júni 2011 sa realizovali 2 predstavenia pre zdravotne postihnutých. Ďalšou aktivitou projektu bolo 6 tvorivých dielní, ktoré boli realizované v mesiacoch júl – september 2011, tvorivé dielne organizačne zabezpečila Mgr. Titková a Mgr. Zálepová. Na tvorivých dielňach pod vedením skúsenej lektorky deti rozvíjali umelecké cítenie a prejav, využívala sa napr. technika decoupage na sklo, doštičky a keramiku, výroba dekoratívnych predmetov z prírodných a farebných medzistienok, maľovanie výrobkov zo skla hubkovaním a pod. V hodnotiacej fáze sa uskutočnilo vyhodnotenie projektu na  spoločnom stretnutí realizátorov projektu so zástupcami pozvaných subjektov.</p>\n<p>    Medzi zaujímavé momenty projektu patrila ochota a záujem, s akými sa deti snažili nacvičiť predstavenie pre iné deti a pripravenie drobnej pozornosti  - cukríkov, malých kvietkov (samy ich zhotovili),  ktorými  privítali svojich divákov na predstaveniach. </p>', '', '', 1),
 (10, 'sk', 'komprax-kompetencie-pre-prax', 'Komprax - kompetencie pre prax', '', 'Komprax - kompetencie pre prax', '<p>Leto na farme - bol realizovaný v roku 2011, projektom sa naplnili voľnočasové aktivity mládeže starostlivosťou o zvieratá a rastliny. Účastníci si vyskúšali dojenie, sadenie, štepenie, výrobu produktov z mlieka, získali skúsenosti s prácou v prírode a potrebe jej ochrany. Projekt bol zameraný na neformálne vzdelávanie v environmentálnej oblasti,  spoznávanie pozitívnych a negatívnych vplyvov človeka na životné prostredie, na ochranu prírody.<br /><br /></p>', '', '', 1),
@@ -200,6 +200,21 @@ CREATE TABLE IF NOT EXISTS `article_media` (
   `url` varchar(255) DEFAULT NULL,
   `lang_display` varchar(8) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Sťahujem dáta pre tabuľku `article_media`
+--
+
+INSERT INTO `article_media` (`id_article`, `id_media`, `online`, `ordering`, `url`, `lang_display`) VALUES
+(5, 4, 1, 1, NULL, NULL),
+(6, 3, 1, 1, NULL, NULL),
+(6, 5, 1, 5, NULL, NULL),
+(6, 9, 1, 2, NULL, NULL),
+(6, 10, 1, 3, NULL, NULL),
+(6, 11, 1, 4, NULL, NULL),
+(7, 1, 1, 2, NULL, NULL),
+(7, 2, 1, 1, NULL, NULL),
+(14, 6, 1, 1, NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -304,13 +319,6 @@ CREATE TABLE IF NOT EXISTS `element_definition` (
   `description` text,
   `ordering` int(11) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
-
---
--- Sťahujem dáta pre tabuľku `element_definition`
---
-
-INSERT INTO `element_definition` (`id_element_definition`, `name`, `description`, `ordering`) VALUES
-(1, '', '', 0);
 
 -- --------------------------------------------------------
 
@@ -565,7 +573,24 @@ CREATE TABLE IF NOT EXISTS `media` (
   `date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00' COMMENT 'Medium date',
   `link` varchar(255) DEFAULT NULL COMMENT 'Link to a resource, attached to this medium',
   `square_crop` enum('tl','m','br') NOT NULL DEFAULT 'm'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+
+--
+-- Sťahujem dáta pre tabuľku `media`
+--
+
+INSERT INTO `media` (`id_media`, `type`, `file_name`, `path`, `base_path`, `copyright`, `provider`, `date`, `link`, `square_crop`) VALUES
+(1, 'picture', 'IMG_8359.jpg', 'files/pictures/IMG_8359.jpg', 'files/pictures/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(2, 'picture', 'IMG_8645.jpg', 'files/pictures/IMG_8645.jpg', 'files/pictures/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(3, 'picture', 'IMG_8438.jpg', 'files/pictures/IMG_8438.jpg', 'files/pictures/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(4, 'picture', 'IMG_8963.jpg', 'files/pictures/IMG_8963.jpg', 'files/pictures/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(5, 'picture', 'screenshot_ionize_dashboard.jpg', 'files/screenshot_ionize_dashboard.jpg', 'files/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(6, 'picture', 'IMG_8447.jpg', 'files/pictures/IMG_8447.jpg', 'files/pictures/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(7, 'picture', 'logo.jpg', 'files/logo/logo.jpg', 'files/logo/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(8, 'picture', 'default.png', 'files/default.png', 'files/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(9, 'picture', 'blog_pic1.jpg', 'files/blog_pic1.jpg', 'files/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(10, 'picture', 'blog_pic2.jpg', 'files/blog_pic2.jpg', 'files/', NULL, '', '0000-00-00 00:00:00', NULL, 'm'),
+(11, 'picture', 'det_pic.jpg', 'files/det_pic.jpg', 'files/', NULL, '', '0000-00-00 00:00:00', NULL, 'm');
 
 -- --------------------------------------------------------
 
@@ -668,7 +693,7 @@ CREATE TABLE IF NOT EXISTS `notification` (
 --
 
 INSERT INTO `notification` (`id_notification`, `date_creation`, `code`, `category`, `title`, `content`, `read`) VALUES
-(1, '2015-02-09', 'sitemap_refresh', 'System', 'Sitemap refresh', 'Sitemap needs to be refreshed.<br/> Go to <b>Tools > System Diagnosis > Tools</b> and click on <b>"Refresh Sitemap"</b>.', 0);
+(1, '2015-02-12', 'sitemap_refresh', 'System', 'Sitemap refresh', 'Sitemap needs to be refreshed.<br/> Go to <b>Tools > System Diagnosis > Tools</b> and click on <b>"Refresh Sitemap"</b>.', 0);
 
 -- --------------------------------------------------------
 
@@ -719,8 +744,8 @@ INSERT INTO `page` (`id_page`, `id_parent`, `id_menu`, `id_type`, `id_subnav`, `
 (1, 0, 2, 0, 0, '404', 0, 0, 1, 0, NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, 1, NULL, NULL, NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 0, NULL, NULL),
 (2, 0, 2, 0, 0, '401', 0, 0, 1, 0, NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, 1, NULL, NULL, NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 0, NULL, NULL),
 (3, 0, 2, 0, 0, '403', 0, 0, 1, 0, NULL, NULL, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 0, 1, NULL, NULL, NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 0, NULL, NULL),
-(4, 0, 1, 0, 0, 'home', 0, 0, 1, 1, NULL, 'admin', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 20:02:15', '0000-00-00 00:00:00', 1, 1, 'home_page', 'home_page', NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 5, 0, '404'),
-(5, 0, 1, 0, 0, 'aktivity', 1, 0, 1, 0, 'admin', 'admin', '2015-02-09 16:30:01', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 18:38:23', '0000-00-00 00:00:00', 1, 1, '', '', NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 5, 0, '404'),
+(4, 0, 1, 0, 0, 'home', 0, 0, 1, 1, NULL, 'admin', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-11 23:26:52', '0000-00-00 00:00:00', 1, 1, 'home_page', '', '', '', 'ordering', 'ASC', '', NULL, '', 0, 5, 0, '404'),
+(5, 0, 1, 0, 0, 'aktivity', 1, 0, 1, 0, 'admin', 'admin', '2015-02-09 16:30:01', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-11 23:28:01', '0000-00-00 00:00:00', 1, 1, '', '', '', 'article_page', 'ordering', 'ASC', '', NULL, '', 0, 5, 0, '404'),
 (6, 0, 1, 0, 0, 'projekty', 2, 0, 1, 0, 'admin', 'admin', '2015-02-09 16:30:20', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2015-02-09 18:38:32', '0000-00-00 00:00:00', 1, 1, '', '', NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 5, 0, '404'),
 (8, 0, 1, 0, 0, 'dokumenty', 4, 0, 1, 0, 'admin', NULL, '2015-02-09 16:30:52', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 1, 1, '0', NULL, NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 5, NULL, NULL),
 (9, 0, 1, 0, 0, 'fotoalbum-1', 5, 0, 1, 0, 'admin', NULL, '2015-02-09 16:31:11', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', 1, 1, '0', NULL, NULL, NULL, 'ordering', 'ASC', '', NULL, '', 0, 5, NULL, NULL),
@@ -760,9 +785,9 @@ INSERT INTO `page_article` (`id_page`, `id_article`, `online`, `view`, `ordering
 (4, 20, 1, NULL, 3, 5, 'article', '5.5', 'Aktivity pre deti', 1),
 (4, 21, 1, NULL, 2, 5, 'article', '5.6', 'Aktivity pre mladých', 1),
 (4, 22, 1, NULL, 1, 5, 'article', '5.7', 'Rôzne', 1),
-(5, 5, 1, NULL, 3, 5, '', '', '', 1),
-(5, 6, 1, NULL, 2, 5, '', '', '', 1),
-(5, 7, 1, NULL, 1, 5, '', '', '', 1),
+(5, 5, 1, '', 3, 5, '', '', '', 1),
+(5, 6, 1, '', 2, 5, '', '', '', 1),
+(5, 7, 1, 'article_page', 1, 5, '', '', '', 1),
 (6, 8, 1, NULL, 6, 1, '', '', '', 1),
 (6, 9, 1, NULL, 5, 1, '', '', '', 1),
 (6, 10, 1, NULL, 4, 1, '', '', '', 1),
@@ -1086,7 +1111,7 @@ INSERT INTO `setting` (`id_setting`, `name`, `content`, `lang`) VALUES
 (39, 'notification', '1', ''),
 (40, 'notification_date', '', ''),
 (41, 'site_title', 'My website', 'sk'),
-(42, 'last_notification_refresh', '2015-02-09 16:22:25', ''),
+(42, 'last_notification_refresh', '2015-02-11 21:57:20', ''),
 (43, 'last_version', '1.0.7', '');
 
 -- --------------------------------------------------------
@@ -1176,7 +1201,7 @@ CREATE TABLE IF NOT EXISTS `url` (
   `path_ids` varchar(50) DEFAULT NULL,
   `full_path_ids` varchar(50) DEFAULT NULL,
   `creation_date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00'
-) ENGINE=InnoDB AUTO_INCREMENT=85 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=137 DEFAULT CHARSET=utf8;
 
 --
 -- Sťahujem dáta pre tabuľku `url`
@@ -1186,10 +1211,6 @@ INSERT INTO `url` (`id_url`, `id_entity`, `type`, `canonical`, `active`, `lang`,
 (5, 8, 'page', 1, 1, 'sk', 'dokumenty', '8', '8', '2015-02-09 16:30:52'),
 (6, 9, 'page', 1, 1, 'sk', 'fotoalbum', '9', '9', '2015-02-09 16:31:11'),
 (7, 10, 'page', 1, 1, 'sk', 'kontakt', '10', '10', '2015-02-09 16:32:00'),
-(42, 5, 'page', 1, 1, 'sk', 'aktivity', '5', '5', '2015-02-09 18:38:23'),
-(43, 5, 'article', 1, 1, 'sk', 'aktivity/aktivity-pre-deti', '5/5', '5/5', '2015-02-09 18:38:23'),
-(44, 6, 'article', 1, 1, 'sk', 'aktivity/aktivity-pre-mladch', '5/6', '5/6', '2015-02-09 18:38:23'),
-(45, 7, 'article', 1, 1, 'sk', 'aktivity/rozne', '5/7', '5/7', '2015-02-09 18:38:23'),
 (46, 6, 'page', 1, 1, 'sk', 'projekty', '6', '6', '2015-02-09 18:38:32'),
 (47, 8, 'article', 1, 1, 'sk', 'projekty/rozvijame-sikovnos-a-tvorivos', '6/8', '6/8', '2015-02-09 18:38:32'),
 (48, 9, 'article', 1, 1, 'sk', 'projekty/robme-veci-spolu', '6/9', '6/9', '2015-02-09 18:38:32'),
@@ -1198,14 +1219,18 @@ INSERT INTO `url` (`id_url`, `id_entity`, `type`, `canonical`, `active`, `lang`,
 (51, 12, 'article', 1, 1, 'sk', 'projekty/vitafit', '6/12', '6/12', '2015-02-09 18:38:32'),
 (52, 13, 'article', 1, 1, 'sk', 'projekty/rozvijaj-svoj-talent', '6/13', '6/13', '2015-02-09 18:38:32'),
 (53, 14, 'article', 1, 1, 'sk', 'projekty/spoznavaj-slovensko', '6/14', '6/14', '2015-02-09 18:38:33'),
-(77, 4, 'page', 1, 1, 'sk', 'home', '4', '4', '2015-02-09 20:02:16'),
-(78, 15, 'article', 1, 1, 'sk', 'home/rozvijaj-svoj-talent', '4/15', '4/15', '2015-02-09 20:02:16'),
-(79, 16, 'article', 1, 1, 'sk', 'home/vitafit', '4/16', '4/16', '2015-02-09 20:02:16'),
-(80, 17, 'article', 1, 1, 'sk', 'home/robime-veci-spolu', '4/17', '4/17', '2015-02-09 20:02:16'),
-(81, 19, 'article', 1, 1, 'sk', 'home/spoznavaj-slovensko-1', '4/19', '4/19', '2015-02-09 20:02:16'),
-(82, 20, 'article', 1, 1, 'sk', 'home/aktivity-pre-deti', '4/20', '4/20', '2015-02-09 20:02:17'),
-(83, 21, 'article', 1, 1, 'sk', 'home/aktivity-pre-mladch', '4/21', '4/21', '2015-02-09 20:02:17'),
-(84, 22, 'article', 1, 1, 'sk', 'home/rozne', '4/22', '4/22', '2015-02-09 20:02:17');
+(117, 4, 'page', 1, 1, 'sk', 'home', '4', '4', '2015-02-11 23:26:52'),
+(118, 15, 'article', 1, 1, 'sk', 'home/rozvijaj-svoj-talent', '4/15', '4/15', '2015-02-11 23:26:52'),
+(119, 16, 'article', 1, 1, 'sk', 'home/vitafit', '4/16', '4/16', '2015-02-11 23:26:53'),
+(120, 17, 'article', 1, 1, 'sk', 'home/robime-veci-spolu', '4/17', '4/17', '2015-02-11 23:26:53'),
+(121, 19, 'article', 1, 1, 'sk', 'home/spoznavaj-slovensko-1', '4/19', '4/19', '2015-02-11 23:26:53'),
+(122, 20, 'article', 1, 1, 'sk', 'home/aktivity-pre-deti', '4/20', '4/20', '2015-02-11 23:26:53'),
+(123, 21, 'article', 1, 1, 'sk', 'home/aktivity-pre-mladch', '4/21', '4/21', '2015-02-11 23:26:53'),
+(124, 22, 'article', 1, 1, 'sk', 'home/rozne', '4/22', '4/22', '2015-02-11 23:26:53'),
+(133, 5, 'page', 1, 1, 'sk', 'aktivity', '5', '5', '2015-02-11 23:28:01'),
+(134, 5, 'article', 1, 1, 'sk', 'aktivity/aktivity-pre-deti', '5/5', '5/5', '2015-02-11 23:28:01'),
+(135, 6, 'article', 1, 1, 'sk', 'aktivity/aktivity-pre-mladch', '5/6', '5/6', '2015-02-11 23:28:01'),
+(136, 7, 'article', 1, 1, 'sk', 'aktivity/rozne', '5/7', '5/7', '2015-02-11 23:28:01');
 
 -- --------------------------------------------------------
 
@@ -1234,7 +1259,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id_user`, `id_role`, `join_date`, `last_visit`, `username`, `screen_name`, `firstname`, `lastname`, `birthdate`, `gender`, `password`, `email`, `salt`) VALUES
-(1, 1, '2015-02-09 15:21:54', '2015-02-09 17:23:21', 'admin', 'admin admin', 'admin', 'admin', NULL, NULL, 'f6r4GQEUshe6cs9W', 'frantisek.ferko@ness.com', '4aa4534fc826fa46');
+(1, 1, '2015-02-09 15:21:54', '2015-02-11 20:57:15', 'admin', 'admin admin', 'admin', 'admin', NULL, NULL, 'f6r4GQEUshe6cs9W', 'frantisek.ferko@ness.com', '4aa4534fc826fa46');
 
 --
 -- Indexes for dumped tables
@@ -1611,7 +1636,7 @@ MODIFY `id_item_definition` int(11) unsigned NOT NULL AUTO_INCREMENT;
 -- AUTO_INCREMENT for table `media`
 --
 ALTER TABLE `media`
-MODIFY `id_media` int(11) unsigned NOT NULL AUTO_INCREMENT;
+MODIFY `id_media` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=12;
 --
 -- AUTO_INCREMENT for table `menu`
 --
@@ -1676,7 +1701,7 @@ MODIFY `id_ui_element` int(11) unsigned NOT NULL AUTO_INCREMENT;
 -- AUTO_INCREMENT for table `url`
 --
 ALTER TABLE `url`
-MODIFY `id_url` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=85;
+MODIFY `id_url` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=137;
 --
 -- AUTO_INCREMENT for table `user`
 --

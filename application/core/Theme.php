@@ -118,7 +118,7 @@ class Theme {
 	
 	/**
 	 * Try to get the default view
-	 * The view must be named "page.php", "article.php" etc.
+	 * The view must be named "page.php", "article_page.php" etc.
 	 *
 	 * @return	String 	The relative path to the default page view
 	 *

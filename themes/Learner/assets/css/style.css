@@ -215,6 +215,13 @@ body {
 	color: #868686;
 	min-height: 100px;
 }
+.article-para{
+	font-size: 16px;
+	line-height: 1.8em;
+	color: #868686;
+	min-height: 100px;
+	text-align: justify;
+}
 .images_1_of_4 a{
 	position: relative;
 	z-index: 1;
@@ -884,4 +891,60 @@ body {
 	.blog_list ul li:nth-child(3){
 		margin-left: 0;
 	}
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src: url('../fonts/icomoon.eot');
+	src: url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),url('../fonts/icomoon.ttf') format('truetype'),url('../fonts/icomoon.woff') format('woff'),url('../fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'icomoon';
+		src: url('../fonts/icomoon.svg#icomoon') format('svg')
+	}
+}
+.icon-logo {
+	font-size: 40px;
+}
+[class*="icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+.icon-logo:before {
+	content: "\e60d";
+}
+.footer a.logo{
+	text-decoration: none;
+}
+.intro-img{
+	width:100%;
+	margin-bottom: 10px;
+	height: 275px;
+	overflow: hidden;
+}
+.intro-img > img{
+	margin: auto;
+}
+.text-muted{
+	margin-left: 10px;
+	margin-bottom: 20px;
+	font-size: 1.8em;
+	font-style: italic;
+}
+article{
+	margin-bottom: 45px;
+}
+.gallery-img{
+	max-width:100%;
 }

@@ -71,7 +71,7 @@
 <!-- Main Navigation menu -->
 <ion:navigation id="home" level="0" tag="ul" class="navigation" active_class="active" />
 
-<div class="header_bg">
+<div class="header_bg1">
     <div class="container">
         <div class="row header">
             <div class="logo navbar-left">
@@ -88,38 +88,38 @@
             <div class="clearfix"></div>
         </div>
     </div>
-</div>
-<div class="container">
-    <div class="row h_menu">
-        <nav class="navbar navbar-default navbar-left" role="navigation">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ion:navigation tag="ul" class="nav navbar-nav">
-                    <li<ion:is_active> class="active"</ion:is_active>>
-                    <a href="<ion:url />"><ion:title /></a>
-                    </li>
-                </ion:navigation>
+    <div class="container">
+        <div class="row h_menu">
+            <nav class="navbar navbar-default navbar-left" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ion:navigation tag="ul" class="nav navbar-nav">
+                        <li<ion:is_active> class="active"</ion:is_active>>
+                        <a href="<ion:url />"><ion:title /></a>
+                        </li>
+                    </ion:navigation>
 
-            </div><!-- /.navbar-collapse -->
-            <!-- start soc_icons -->
-        </nav>
-        <div class="soc_icons navbar-right">
-            <ul class="list-unstyled text-center">
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
-                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
-            </ul>
+                </div><!-- /.navbar-collapse -->
+                <!-- start soc_icons -->
+            </nav>
+            <div class="soc_icons navbar-right">
+                <ul class="list-unstyled text-center">
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                    <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
+                </ul>
+            </div>
         </div>
     </div>
 </div>
